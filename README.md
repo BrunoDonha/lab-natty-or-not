@@ -18,7 +18,6 @@ E-book simples que explica de forma clara e direta como a IA evoluiu, suas aplic
 ## 🚀 Resultados
 - E-book didático, inclusivo e acessível a todos
 - Explicações claras com exemplos práticos e linguagem simples
-- [Baixar o E-book]([./ebook.pdf](https://github.com/BrunoDonha/lab-natty-or-not/blob/main/Evolu%C3%A7%C3%A3o%20da%20IA.pdf))
 
 ## 💭 Reflexão
 Foi interessante criar um conteúdo acessível sobre IA. A maior descoberta foi como a tecnologia está presente no dia a dia das pessoas – e facilitar o entendimento sobre esse tema é muito importante para o futuro.
